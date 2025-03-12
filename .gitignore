@@ -14,7 +14,6 @@ venv/
 
 # Environment variables and secrets
 .env
-*.env
 config.json
 settings.ini
 
